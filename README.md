@@ -480,7 +480,7 @@ Podemos comparar dois números ou strings com:
 </tr>
 
 <tr>
-<td class="org-left"><code>=</code></td>
+<td class="org-left"><code>===</code></td>
 <td class="org-left">$x <code>===</code> $y</td>
 <td class="org-left">true se x for igual à y e tiver o mesmo tipo</td>
 </tr>
